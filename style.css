@@ -1,0 +1,115 @@
+.container {
+  background-color: #4b0265;
+  height: 99vh;
+  border: black 15px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.pink {
+  height: 50px;
+  width: 385px;
+  background-color: #cb4adb;
+}
+.yellow {
+  height: 100px;
+  width: 180px;
+  background-color: #daa000;
+}
+.red {
+  height: 50px;
+  width: 180px;
+  background-color: #c51349;
+}
+.blue {
+  height: 165px;
+  width: 180px;
+  background-color: #87c2d3;
+}
+
+.reddish {
+  width: 180px;
+  height: 48px;
+  background-color: #c51349;
+}
+.blueish {
+  width: 180px;
+  height: 35px;
+  background-color: #87c2d3;
+}
+.yellowish {
+  width: 180px;
+  height: 58px;
+  background-color: #daa000;
+}
+.blueish2 {
+  width: 180px;
+  height: 53px;
+  background-color: #87c2d3;
+}
+.yellowish2 {
+  width: 180px;
+  height: 45px;
+  background-color: #daa000;
+}
+.reddish2 {
+  width: 180px;
+  height: 44px;
+  background-color: #c51349;
+}
+.pinkish {
+  width: 385px;
+  height: 60px;
+  background-color: #cb4adb;
+}
+
+.two {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+.three {
+  display: flex;
+  gap: 25px;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.two-top {
+  display: flex;
+  gap: 25px;
+}
+.lefter {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.righter {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.father {
+  display: flex;
+  gap: 30px;
+}
+.text {
+  font-size: 120px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700px;
+  color: white;
+}
+* {
+  margin: 0;
+}
